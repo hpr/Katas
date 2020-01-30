@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hpr/Katas/issues"
   },
-  "homepage": "https://github.com/hpr/Katas#readme"
+  "homepage": "https://github.com/hpr/Katas#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
